@@ -1,2 +1,4 @@
 # python_exercises
-A set of exercises in Python from beginner to advanced 
+A set of exercises in Python from beginner to advanced  
+
+VS code editor commit
