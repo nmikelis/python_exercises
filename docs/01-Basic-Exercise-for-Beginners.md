@@ -9,7 +9,7 @@ Expected output: 600
 
 Given :
 
-number1 = 40
-number2 = 30
+![4030](https://user-images.githubusercontent.com/22093859/219457916-06330484-c380-4173-9833-85743cec8db3.png)
+
 
 Expected output: 70
