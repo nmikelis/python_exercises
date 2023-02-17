@@ -3,13 +3,18 @@
 
 Given : 
                      
-![2030](https://user-images.githubusercontent.com/22093859/219454303-18c3a3d0-f153-48c4-a5b5-3ca1cabee7f1.png)
+![2030](https://user-images.githubusercontent.com/22093859/219579173-0d224634-1b14-49cb-9031-ae4bf21abc88.png)
+ 
+Expected output: 
 
-Expected output: 600 
+![600](https://user-images.githubusercontent.com/22093859/219579347-ffb4fb78-06d2-44f2-a519-5173ee0f5fcd.png)
+
 
 Given :
 
-![4030](https://user-images.githubusercontent.com/22093859/219457916-06330484-c380-4173-9833-85743cec8db3.png)
+![4030](https://user-images.githubusercontent.com/22093859/219579554-317f2158-a41f-4f7b-aa09-a6484eafd8ff.png)
 
+Expected output: 
 
-Expected output: 70
+![70](https://user-images.githubusercontent.com/22093859/219579659-a559e1a0-b3ed-4d53-9233-60e72ebe0660.png)
+
