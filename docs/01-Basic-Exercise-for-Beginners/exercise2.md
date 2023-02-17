@@ -3,6 +3,8 @@
  
 Expected output: 
 
+![exercise2](https://github.com/nmikelis/python_exercises/blob/main/docs/images/exercise2.png?raw=true)
+
 
 
 
