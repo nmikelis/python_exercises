@@ -15,5 +15,3 @@ print("The result is", result)
 # second condition
 result = multiplication_or_sum(40, 30)
 print("The result is", result)
-
-    
