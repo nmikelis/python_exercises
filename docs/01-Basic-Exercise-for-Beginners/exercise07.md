@@ -3,10 +3,12 @@
 
 
 Given:
+
 ![exercise7](https://github.com/nmikelis/python_exercises/blob/main/docs/images/exercise7.png?raw=true)
 
 
 Output:
+
 ![exercise7output](https://github.com/nmikelis/python_exercises/blob/main/docs/images/exercise7output.png?raw=true)
 
 
