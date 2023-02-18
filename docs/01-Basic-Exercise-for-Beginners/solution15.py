@@ -7,3 +7,4 @@ def exponent(base, exp):
     print(base, "raises to the power of", exp, "is: ", result)
 
 exponent(5, 4)
+exponent(10, 10)
